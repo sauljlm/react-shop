@@ -6,7 +6,8 @@ export default () => {
   return (
     <nav>
       <NavLink to="/">Home</NavLink>
-      <NavLink to="/shoping-car">shoping-car</NavLink>
+      <NavLink className="shopping-car" to="/shoping-car">car</NavLink>
     </nav>
+
   )
 }

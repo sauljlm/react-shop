@@ -1,0 +1,17 @@
+.shopping-car {
+  width: 80px;
+  height: 80px;
+  text-indent: 100%;
+  display: inline-block;
+  white-space: nowrap;
+  overflow: hidden;
+  background-image: url('/static/shopping-car.png');
+  background-size: cover;
+}
+
+.ejemplo-imagen {
+  width: 80px;
+  height: 80px;
+  background-image: url('/static/shopping-car.png');
+  background-size: cover;
+}

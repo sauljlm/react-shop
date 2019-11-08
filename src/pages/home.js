@@ -6,7 +6,7 @@ export default () => {
   return (
     <div>
       <Nav />
-      <h1>hola mundo</h1>
+      <div className="ejemplo-imagen"></div>
     </div>
   )
 }

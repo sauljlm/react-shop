@@ -1,9 +1,17 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './sass/style.scss';
-import App from './App';
 import * as serviceWorker from './serviceWorker';
 
-ReactDOM.render(<App />, document.getElementById('root'));
+import App from './App';
+
+import './sass/style.scss';
+
+function startRender() {
+  ReactDOM.render(<App />,document.getElementById('root'));
+}
+
+window.onload = function() {
+  startRender();
+};
 
 serviceWorker.unregister();

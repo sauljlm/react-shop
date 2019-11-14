@@ -1,9 +1,12 @@
-@import 'helpers/normalize.scss';
+@import 'helpers/normalize';
 @import 'helpers/variables';
-@import 'helpers/general.scss';
-
-@import 'components/menu.scss';
-
-@import 'patterns/buttons.scss';
+@import 'helpers/general';
 
 @import 'pages/app-wrapper';
+@import 'pages/products';
+
+@import 'components/menu';
+@import 'components/header';
+
+@import 'patterns/buttons';
+

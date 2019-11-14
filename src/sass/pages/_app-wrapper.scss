@@ -1,1 +1,40 @@
+.content {
+  display: flex;
+  margin: 0 auto;
+  max-width: 100%;
+  overflow: hidden;
+  padding: 100px 4%;
+}
 
+.gallery {
+  display: grid;
+  grid-template-columns: 40% 60%;
+  grid-template-rows: 60% 40%;
+  grid-template-areas: 
+  "first second"
+  "first third";
+  width: 100%;
+}
+
+.gallery__image {
+  height: 250px;
+  background-size: cover;
+}
+
+.gallery__image--first {
+  grid-area: first;
+  height: 100vh;
+}
+
+.gallery__image--second {
+  background-position: 0 -120%;
+  grid-area: second;
+  height: 100%;
+}
+
+.gallery__image--third {
+  background-position: 55% 77%;
+  background-size: 145%;
+  grid-area: third;
+  height: 100%;
+}

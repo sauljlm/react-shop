@@ -1,12 +1,11 @@
 import React from 'react';
 
-import Nav from '../components/menu';
+import Header from '../components/header';
 
 export default () => {
   return (
-    <div>
-      <Nav />
-      <h1>hola mundo</h1>
+    <div className="container">
+      <Header />
     </div>
   )
 }

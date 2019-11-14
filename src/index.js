@@ -10,6 +10,12 @@ function startRender() {
   ReactDOM.render(<App />,document.getElementById('root'));
 }
 
+fetch('./data.json')
+    .then(data => data.json())
+    .then(data => {
+        localStorage.setItem('data', JSON.stringify(data))
+    });
+
 window.onload = function() {
   startRender();
 };

@@ -1,0 +1,133 @@
+.product-info {
+  display: grid;
+  grid-template-columns: 60% 40%;
+  grid-template-rows: 100%;
+  grid-template-areas: 
+  "left right";
+  height: 80vh;
+  overflow: hidden;
+  width: 100%;
+}
+
+.product-info__left {
+  grid-area: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.product-info__right {
+  grid-area: right;
+  width: 70%;
+  overflow: auto;
+  padding-right: 10%;
+  justify-self: center;
+}
+
+.product-info__image {
+  width: 80%;
+  padding-bottom: 70%;
+  margin: 0 auto;
+  background-size: cover;
+  background-position: center;
+}
+
+.product-info__desc-top {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.slider {
+  width: 100%;
+}
+
+.slider__cont {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: auto;
+  grid-row-gap: 10px;
+  margin: 20px 0;
+}
+
+.slider__button {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  border-radius: 2px;
+}
+
+.slider__item {
+  width: 50px;
+  height: 50px;
+  position: relative;
+}
+
+.slider__item--active:before {
+  content: '';
+  background-color: rgba(0,0,0,0.2);
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: 1;
+}
+
+.sizes {
+  margin: 20px 0;
+}
+
+.sizes__cont {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: auto;
+  grid-row-gap: 10px;
+
+  button {
+    width: 50px;
+    height: 50px;
+  }
+}
+
+.sizes__title {
+  padding-bottom: 5px;
+}
+
+.sizes__button {
+  background-color: transparent;
+  border: 1px solid #eee;
+  transition: 0.2s;
+  border-radius: 2px;
+
+  &:hover {
+    border-color: black;
+    transition: 0.5s;
+  }
+}
+
+.sizes__item--active {
+  button {
+    background-color: black;
+    color: white;
+    border-color: black;
+  }
+}
+
+.product-info__btn-add {
+  width: 100%;
+  height: 46px;
+  border-radius: 25px;
+  background-color: black;
+  color: white;
+  transition: 0.2s;
+  border: 2px solid black;
+  margin: 20px 0;
+
+  &:hover {
+    color: black;
+    background-color: white;
+    transition: 0.5s;
+  }
+}

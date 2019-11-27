@@ -18,3 +18,15 @@ h4 {
 body {
   font-family: $secundary-font;
 }
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: #fff; 
+}
+
+::-webkit-scrollbar-thumb {
+  background: #000; 
+}

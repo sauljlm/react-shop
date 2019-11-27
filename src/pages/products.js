@@ -1,55 +1,51 @@
 import React from 'react';
 
+import { useSelector } from 'react-redux';
+
 import Header from '../components/header';
 import Card from '../components/card';
 
-export default class Products extends React.Component {
-  constructor(props) {
-		super(props);
+export default (props) => {
+  const products = useSelector(state => state.products);
 
-		this.state = {
-      url : './data.json',
-      data : JSON.parse(localStorage.getItem('data'))
-    }
-  }
-
-  newCard(element, cards) {
+  function newCard(element, cards) {
 		cards.push(
 			<Card
         key={element.id}
         id ={element.id} 
 
+        data={element}
         image={element.image[0]}
         title={element.title}
         category={element.category}
         price={element.price}
       />
 		);
-	}
+  }
 
-  getElements() {
+  function getElements() {
     let cards = [];
-    this.state.data.shoes.map((element) => {
-      this.newCard(element, cards)
+    const currentCategory = props.location.pathname.replace("/", "");
+    products.shoes.map((element) => {
+      if(currentCategory === element.category) {
+        newCard(element, cards);
+      }
     });
 
-		return cards;
+    return cards;
   }
-  
-  render() {
-    
-    const component = this.getElements();
 
-    return (
-      <div className="container">
-        <Header />
-        <div className="content">
-          <div className="cont-categories">
+  let component = getElements();
 
-          </div>
-          <div className="cont-products">{component}</div>
+  return (
+    <div className="container">
+      <Header />
+      <div className="content">
+        <div className="cont-categories">
+          
         </div>
-      </div>
-    )
-  }
+        <div className="cont-products">{component}</div>
+      </div> 
+    </div>
+  )
 }

@@ -1,24 +1,24 @@
 {
   "shoes": [
     {
-      "category": "Men",
-      "availableSizes": ["7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "12.5", "13", "14", "15"],
-      "description": "The breathable and plush Nike Roshe One Men's Shoe provides all day, everyday comfort. Worn with or without socks, dressed up or down, for walking or just taking it easy, this coveted style is designed to be versatile.",
+      "category": "men",
+      "availableSizes": ["7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "12.5", "13"],
+      "description": "Named after the Japanese word for 'simplicity', 'the Nike Tanjun Men's Shoe offers a streamlined, modern design for an elevated everyday look.'",
       "id": 0,
-      "price": 75,
-      "title": "Nike Roshe One",
+      "price": 65,
+      "title": "Nike Tanjun",
       "image": 
         [
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/bw3ncmlwlu7vgda3j8xt/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/kpha6typnct4pxi4dea2/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/i6jtudpxbmb6lgbqsk48/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/hlranjgprirgird0ytxi/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/vw1lun7lxjtvc41ufn2p/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/tqqicdzjjutpdtvcydyn/roshe-one-mens-shoe-MkTmzjJv.jpg"
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/uwjw39b1xdsbtmfnxjqm/tanjun-mens-shoe-w8ToA8jr.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/dbuj3pggrvoggvm4shmd/tanjun-mens-shoe-w8ToA8jr.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/afjvbcztzhi0t3ixkrrf/tanjun-mens-shoe-w8ToA8jr.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/q7kkylclrxk3gol1osdc/tanjun-mens-shoe-w8ToA8jr.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/w4hrbaep0goih7hpblew/tanjun-mens-shoe-w8ToA8jr.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/j7wn27vretwrydqnkedm/tanjun-mens-shoe-w8ToA8jr.jpg"
         ]
     },
     {
-      "category": "Men",
+      "category": "men",
       "availableSizes": ["6", "6.5", "7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "12.5", "13", "14", "15"],
       "description": "The iconic Nike Air Zoom Pegasus 36 returns with more perforations and an engineered mesh to optimize breathability across high-heat areas. A slimmer heel collar and tongue reduce bulk without compromising comfort, while exposed Flywire cables give you a snug fit at higher speeds.",
       "id": 1,
@@ -35,151 +35,154 @@
         ]
     },
     {
-      "category": "Kids",
-      "availableSizes": ["7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "12.5", "13", "14", "15"],
-      "description": "4 MSL",
+      "category": "men",
+      "availableSizes": ["6", "6.5", "7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "12.5", "13", "14", "15"],
+      "description": "The Nike Zoom Pegasus Turbo 2 is updated with a featherlight upper, while energy-returning foam brings responsiveness to your long distance training.",
       "id": 2,
-      "price": 75,
+      "price": 120,
       "title": "Nike Zoom Pegasus Turbo 2",
       "image": 
         [
           "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/lagmtbptxx69q7f5njro/zoom-pegasus-turbo-2-mens-running-shoe-XJGdMD.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/kpha6typnct4pxi4dea2/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/i6jtudpxbmb6lgbqsk48/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/hlranjgprirgird0ytxi/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/vw1lun7lxjtvc41ufn2p/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/tqqicdzjjutpdtvcydyn/roshe-one-mens-shoe-MkTmzjJv.jpg"
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/vpouqo8r5d91avhr3buq/zoom-pegasus-turbo-2-mens-running-shoe-hP8wBs.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/oh4ukgkasarqqqsdntn4/zoom-pegasus-turbo-2-mens-running-shoe-hP8wBs.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/a70aycb4kwy5kqj5t1hw/zoom-pegasus-turbo-2-mens-running-shoe-hP8wBs.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/svmi3km69p8grwsys3f4/zoom-pegasus-turbo-2-mens-running-shoe-hP8wBs.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/nzgm7emfiucvhrovjht0/zoom-pegasus-turbo-2-mens-running-shoe-hP8wBs.jpg"
         ]
     },
     {
-      "category": "Kids",
-      "availableSizes": ["7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "12.5", "13", "14", "15"],
-      "description": "4 MSL",
+      "category": "men",
+      "availableSizes": ["6", "6.5", "7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "12.5", "13", "14", "15"],
+      "description": "The Nike Joyride Run Flyknit is designed to help make running feel easier and give your legs a day off. Tiny foam beads underfoot conform to your foot for cushioning that stands up to your mileage.",
       "id": 3,
-      "price": 75,
+      "price": 180,
       "title": "Nike Joyride Run FlyKnit",
       "image": 
         [
-          "https://c.static-nike.com/a/images/t_default/ad4a3d3a-baa4-4527-81fe-ca669227588c/joyride-run-flyknit-mens-running-shoe-l0JmPh.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/kpha6typnct4pxi4dea2/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/i6jtudpxbmb6lgbqsk48/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/hlranjgprirgird0ytxi/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/vw1lun7lxjtvc41ufn2p/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/tqqicdzjjutpdtvcydyn/roshe-one-mens-shoe-MkTmzjJv.jpg"
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/ad4a3d3a-baa4-4527-81fe-ca669227588c/joyride-run-flyknit-mens-running-shoe-PjmR5M.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/111e0b70-1748-41f4-a298-504b0104207f/joyride-run-flyknit-mens-running-shoe-PjmR5M.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/391f26ae-e669-41a1-a1d6-72a1885177ef/joyride-run-flyknit-mens-running-shoe-PjmR5M.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/5d7119bd-1b90-4594-b0de-e2c43ead9d50/joyride-run-flyknit-mens-running-shoe-PjmR5M.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/ecc75a40-bf97-47a3-a36b-23fba157f05a/joyride-run-flyknit-mens-running-shoe-PjmR5M.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/f449ebd8-9ec5-432a-8dab-4a0fe7319580/joyride-run-flyknit-mens-running-shoe-PjmR5M.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/a8365314-5e7c-4ae0-8e41-09dae4676c0b/joyride-run-flyknit-mens-running-shoe-PjmR5M.jpg"
         ]
     },
     {
-      "category": "Shoes",
+      "category": "men",
       "availableSizes": ["7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "12.5", "13", "14", "15"],
-      "description": "4 MSL",
+      "description": "Designed for steady, easy-paced movement, the Nike CruzrOne keeps you going. Its rocker-shaped sole and plush, lightweight cushioning let you move naturally and comfortably. The padded collar is lined with soft wool, adding luxury to every step, while mesh details let your foot breathe. There’s no finish line—there’s only you, one step after the next.",
       "id": 4,
-      "price": 75,
+      "price": 150,
       "title": "Nike CruzrOne (Coastal Blue)",
       "image": 
         [
           "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/myhf9pbixnzzzqwflg9s/cruzrone-coastal-blue-shoe-T2rRwS.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/kpha6typnct4pxi4dea2/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/i6jtudpxbmb6lgbqsk48/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/hlranjgprirgird0ytxi/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/vw1lun7lxjtvc41ufn2p/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/tqqicdzjjutpdtvcydyn/roshe-one-mens-shoe-MkTmzjJv.jpg"
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/r9a4cieuzho5fdjbehts/cruzrone-coastal-blue-shoe-T2rRwS.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/ppkixu550kjmorrxxzbx/cruzrone-coastal-blue-shoe-T2rRwS.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/bof3t4owl5zsrexgromx/cruzrone-coastal-blue-shoe-T2rRwS.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/f68pjkebfjg0cojmmtb4/cruzrone-coastal-blue-shoe-T2rRwS.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/fszshwofzlxqkqx5h4tr/cruzrone-coastal-blue-shoe-T2rRwS.jpg"
         ]
     },
     {
-      "category": "Shoes",
+      "category": "men",
       "availableSizes": ["7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "12.5", "13", "14", "15"],
-      "description": "4 MSL",
+      "description": "The Nike Epic React Flyknit 2 takes a step up from its predecessor with smooth, lightweight performance and a bold look. An updated Flyknit upper conforms to your foot with a minimal, supportive design. Underfoot, durable Nike React technology defies the odds by being both soft and responsive, for comfort that lasts as long as you can run.",
       "id": 5,
-      "price": 75,
+      "price": 120,
       "title": "Nike Epic React Flyknit 2",
       "image": 
         [
           "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/ymmq6yswyxlxycdzquoi/epic-react-flyknit-2-mens-running-shoe-459stf.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/kpha6typnct4pxi4dea2/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/i6jtudpxbmb6lgbqsk48/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/hlranjgprirgird0ytxi/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/vw1lun7lxjtvc41ufn2p/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/tqqicdzjjutpdtvcydyn/roshe-one-mens-shoe-MkTmzjJv.jpg"
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/nirnv48pmkfv36iznsru/epic-react-flyknit-2-mens-running-shoe-459stf.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/jzcjk77izdw98addugsr/epic-react-flyknit-2-mens-running-shoe-459stf.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/wurdfiz768lmjiazopf9/epic-react-flyknit-2-mens-running-shoe-459stf.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/h7ttydqm2l0d3iiquyi4/epic-react-flyknit-2-mens-running-shoe-459stf.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/kryow2uaax2yjzgpblyr/epic-react-flyknit-2-mens-running-shoe-459stf.jpg"
         ]
     },
     {
-      "category": "Shoes",
-      "availableSizes": ["7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "12.5", "13", "14", "15"],
-      "description": "4 MSL",
+      "category": "men",
+      "availableSizes": ["6.5", "7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "12.5", "13", "14", "15"],
+      "description": "The Nike Zoom Pegasus 35 Turbo is the Pegasus you know and love with major upgrades for speed. The feather-light upper looks as fast as it feels, while the revolutionary Nike ZoomX foam that was designed for elite Nike runners during the Breaking 2 attempt brings record-breaking speed and responsiveness to your daily training runs.",
       "id": 6,
-      "price": 75,
-      "title": "Nike Zoom Pegasus Turbo",
+      "price": 162,
+      "title": "Nike Zoom Pegasus 35 Turbo",
       "image": 
         [
           "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/bfau7aauvleh5puvuiqa/zoom-pegasus-turbo-mens-running-shoe-qCL9h1.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/kpha6typnct4pxi4dea2/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/i6jtudpxbmb6lgbqsk48/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/hlranjgprirgird0ytxi/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/vw1lun7lxjtvc41ufn2p/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/tqqicdzjjutpdtvcydyn/roshe-one-mens-shoe-MkTmzjJv.jpg"
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/wzdpbptyrjpdgbjpgihr/zoom-pegasus-35-turbo-mens-running-shoe-qCL9h1.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/bdlcij5bz2ivodwfjlfc/zoom-pegasus-35-turbo-mens-running-shoe-qCL9h1.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/wovgeqokbxg7m4f7tf3s/zoom-pegasus-35-turbo-mens-running-shoe-qCL9h1.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/uz9ymiq3tgl5u2nrueq7/zoom-pegasus-35-turbo-mens-running-shoe-qCL9h1.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/ggvi53dd99uqzvwawzy0/zoom-pegasus-35-turbo-mens-running-shoe-qCL9h1.jpg"
         ]
     },
     {
-      "category": "Shoes",
-      "availableSizes": ["7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "12.5", "13", "14", "15"],
-      "description": "4 MSL",
+      "category": "men",
+      "availableSizes": ["6", "6.5", "7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "12.5", "13", "14", "15"],
+      "description": "The Nike Joyride Dual Run blazes its own route. Tiny foam beads underfoot combined with traditional cushioning in the forefoot give an incredibly smooth feel that conforms to your foot.",
       "id": 7,
-      "price": 75,
-      "title": "Nike Roshe One",
+      "price": 130,
+      "title": "Nike Joyride Dual Run",
       "image": 
         [
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/bw3ncmlwlu7vgda3j8xt/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/kpha6typnct4pxi4dea2/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/i6jtudpxbmb6lgbqsk48/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/hlranjgprirgird0ytxi/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/vw1lun7lxjtvc41ufn2p/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/tqqicdzjjutpdtvcydyn/roshe-one-mens-shoe-MkTmzjJv.jpg"
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/c9cd4706-9814-4231-8c9d-cdcf19450fd5/joyride-dual-run-mens-running-shoe-8BGXtk.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/b056c673-7267-49cd-ab10-2ce3681d92d5/joyride-dual-run-mens-running-shoe-8BGXtk.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/4313cb8b-0d09-4fd3-b9b6-723b504d5dc1/joyride-dual-run-mens-running-shoe-8BGXtk.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/6feadc79-90dc-433d-8623-d993ba0995f9/joyride-dual-run-mens-running-shoe-8BGXtk.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/452bacdd-6e4d-4594-8b6f-f75373b8d5d1/joyride-dual-run-mens-running-shoe-8BGXtk.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/82418bf7-0821-4faf-93d4-a7df4c638862/joyride-dual-run-mens-running-shoe-8BGXtk.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/cef935d4-d33d-4312-a24d-163f64e58441/joyride-dual-run-mens-running-shoe-8BGXtk.jpg"
         ]
     },
     {
-      "category": "Shoes",
-      "availableSizes": ["7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "12.5", "13", "14", "15"],
-      "description": "4 MSL",
+      "category": "men",
+      "availableSizes": ["6", "6.5", "7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "12.5", "13", "14", "15"],
+      "description": "Crush your miles with the Nike Zoom Fly 3. Design details are inspired by the Vaporfly, giving distance runners race-day comfort and durability. The power of a carbon fiber plate keeps you in the running mile after mile.",
       "id": 8,
-      "price": 75,
-      "title": "Nike Roshe One",
+      "price": 160,
+      "title": "Nike Zoom Fly 3",
       "image": 
         [
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/bw3ncmlwlu7vgda3j8xt/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/kpha6typnct4pxi4dea2/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/i6jtudpxbmb6lgbqsk48/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/hlranjgprirgird0ytxi/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/vw1lun7lxjtvc41ufn2p/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/tqqicdzjjutpdtvcydyn/roshe-one-mens-shoe-MkTmzjJv.jpg"
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/rzudpinsoewftxnve9xr/zoom-fly-3-chicago-running-shoe-XhzpPH.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/bvjbefalku4562ctz3jh/zoom-fly-3-chicago-running-shoe-XhzpPH.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/wghzluijh1yd4maowi85/zoom-fly-3-chicago-running-shoe-XhzpPH.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/u3ytnwubcldjjez30zvl/zoom-fly-3-chicago-running-shoe-XhzpPH.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/jjjozd0lteco7zr8iw3d/zoom-fly-3-chicago-running-shoe-XhzpPH.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/b6z9vhqkupyhnmfcyhui/zoom-fly-3-chicago-running-shoe-XhzpPH.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/skft82iehm3j6ivj3dnz/zoom-fly-3-chicago-running-shoe-XhzpPH.jpg"
         ]
     },
     {
-      "category": "Shoes",
+      "category": "men",
       "availableSizes": ["7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "12.5", "13", "14", "15"],
-      "description": "4 MSL",
+      "description": "The Nike SB Air Max Stefan Janoski 2 hugs your foot with a breathable textile upper. A Max Air unit in the heel cushions every step, while a flat rubber outsole optimizes grip when you're on your board.",
       "id": 9,
-      "price": 75,
-      "title": "Nike Roshe One",
+      "price": 110,
+      "title": "Nike SB Air Max Stefan Janoski 2",
       "image": 
         [
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/bw3ncmlwlu7vgda3j8xt/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/kpha6typnct4pxi4dea2/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/i6jtudpxbmb6lgbqsk48/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/hlranjgprirgird0ytxi/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/vw1lun7lxjtvc41ufn2p/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/tqqicdzjjutpdtvcydyn/roshe-one-mens-shoe-MkTmzjJv.jpg"
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/erati32zcjk9luw3l4ne/sb-air-max-stefan-janoski-2-mens-skate-shoe-rXl5sq.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/vy6ztev6txbc1hjggwoe/sb-air-max-stefan-janoski-2-mens-skate-shoe-rXl5sq.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/oe51smihk5hggg2nb8yg/sb-air-max-stefan-janoski-2-mens-skate-shoe-rXl5sq.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/q0jhkn9w3trnvzib89xy/sb-air-max-stefan-janoski-2-mens-skate-shoe-rXl5sq.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/anyc7gckhtuieetpk5qd/sb-air-max-stefan-janoski-2-mens-skate-shoe-rXl5sq.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/ln2uemf2e6ofyb474qkq/sb-air-max-stefan-janoski-2-mens-skate-shoe-rXl5sq.jpg"
         ]
     },
     {
-      "category": "Shoes",
-      "availableSizes": ["7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "12.5", "13", "14", "15"],
-      "description": "4 MSL",
+      "category": "women",
+      "availableSizes": ["5", "5.5", "6", "6.5", "7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12"],
+      "description": "The breathable and plush Nike Roshe One Men's Shoe provides all day, everyday comfort. Worn with or without socks, dressed up or down, for walking or just taking it easy, this coveted style is designed to be versatile.",
       "id": 10,
       "price": 75,
-      "title": "Nike Roshe One",
+      "title": "Nike Joyride Run Flyknit",
       "image": 
         [
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/bw3ncmlwlu7vgda3j8xt/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/grtm5a8w7clt6hagw0zm/joyride-run-flyknit-womens-running-shoe-HcfnJd.jpg",
           "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/kpha6typnct4pxi4dea2/roshe-one-mens-shoe-MkTmzjJv.jpg",
           "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/i6jtudpxbmb6lgbqsk48/roshe-one-mens-shoe-MkTmzjJv.jpg",
           "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/hlranjgprirgird0ytxi/roshe-one-mens-shoe-MkTmzjJv.jpg",
@@ -188,32 +191,32 @@
         ]
     },
     {
-      "category": "Shoes",
-      "availableSizes": ["7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "12.5", "13", "14", "15"],
-      "description": "4 MSL",
+      "category": "women",
+      "availableSizes": ["5", "5.5", "6", "6.5", "7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12"],
+      "description": "The iconic Nike Air Zoom Pegasus 36 returns with more perforations and an engineered mesh to optimize breathability across high-heat areas. A slimmer heel collar and tongue reduce bulk without compromising comfort, while exposed Flywire cables give you a snug fit at higher speeds.",
       "id": 11,
-      "price": 75,
-      "title": "Nike Roshe One",
+      "price": 120,
+      "title": "Nike Air Zoom Pegasus 36",
       "image": 
         [
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/bw3ncmlwlu7vgda3j8xt/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/kpha6typnct4pxi4dea2/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/i6jtudpxbmb6lgbqsk48/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/hlranjgprirgird0ytxi/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/vw1lun7lxjtvc41ufn2p/roshe-one-mens-shoe-MkTmzjJv.jpg",
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/tqqicdzjjutpdtvcydyn/roshe-one-mens-shoe-MkTmzjJv.jpg"
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/h3fquybvn7tyhes7qm6k/air-zoom-pegasus-36-womens-running-shoe-rzGg2f.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/tizo5tyftuixmruhgozb/air-zoom-pegasus-36-mens-running-shoe-extra-wide-D24Mcz.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/r5tr73qjfw0fwq9nurqu/air-zoom-pegasus-36-mens-running-shoe-extra-wide-D24Mcz.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/annogrytej6zb8ljfb1x/air-zoom-pegasus-36-mens-running-shoe-extra-wide-D24Mcz.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/ushktv4de8jwqp1sggsw/air-zoom-pegasus-36-mens-running-shoe-extra-wide-D24Mcz.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/mdj0cjtxpyokie5e62wd/air-zoom-pegasus-36-mens-running-shoe-extra-wide-D24Mcz.jpg"
         ]
     },
     {
-      "category": "Shoes",
-      "availableSizes": ["7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "12.5", "13", "14", "15"],
+      "category": "women",
+      "availableSizes": ["5", "5.5", "6", "6.5", "7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12"],
       "description": "4 MSL",
       "id": 12,
-      "price": 75,
-      "title": "Nike Roshe One",
+      "price": 90,
+      "title": "Nike Air Zoom Winflo 6",
       "image": 
         [
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/bw3ncmlwlu7vgda3j8xt/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/n5g19p73ctytefgldpbf/air-zoom-wio-6-womens-running-shoe-xc5pkP.jpg",
           "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/kpha6typnct4pxi4dea2/roshe-one-mens-shoe-MkTmzjJv.jpg",
           "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/i6jtudpxbmb6lgbqsk48/roshe-one-mens-shoe-MkTmzjJv.jpg",
           "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/hlranjgprirgird0ytxi/roshe-one-mens-shoe-MkTmzjJv.jpg",
@@ -222,15 +225,15 @@
         ]
     },
     {
-      "category": "Shoes",
-      "availableSizes": ["7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "12.5", "13", "14", "15"],
-      "description": "4 MSL",
+      "category": "women",
+      "availableSizes": ["5", "5.5", "6", "6.5", "7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12"],
+      "description": "Inspired by the Vaporfly, the Nike Zoom Fly 3 gives distance runners race-day comfort and durability. The power of a carbon fiber plate and responsive cushioning keeps you in the running mile after mile.",
       "id": 13,
-      "price": 75,
-      "title": "Nike Roshe One",
+      "price": 160,
+      "title": "Nike Zoom Fly 3",
       "image": 
         [
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/bw3ncmlwlu7vgda3j8xt/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/mgsyeqzlfxy0dqmiqfmq/zoom-fly-3-womens-running-shoe-pmlkd3.jpg",
           "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/kpha6typnct4pxi4dea2/roshe-one-mens-shoe-MkTmzjJv.jpg",
           "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/i6jtudpxbmb6lgbqsk48/roshe-one-mens-shoe-MkTmzjJv.jpg",
           "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/hlranjgprirgird0ytxi/roshe-one-mens-shoe-MkTmzjJv.jpg",
@@ -239,15 +242,15 @@
         ]
     },
     {
-      "category": "Shoes",
-      "availableSizes": ["7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "12.5", "13", "14", "15"],
+      "category": "women",
+      "availableSizes": ["5", "5.5", "6", "6.5", "7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12"],
       "description": "4 MSL",
       "id": 14,
-      "price": 75,
-      "title": "Nike Roshe One",
+      "price": 180,
+      "title": "Nike Zoom Pegasus Turbo 2",
       "image": 
         [
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/bw3ncmlwlu7vgda3j8xt/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/wvmovmshpndwztxisa32/zoom-pegasus-turbo-2-womens-running-shoe-qsGKBf.jpg",
           "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/kpha6typnct4pxi4dea2/roshe-one-mens-shoe-MkTmzjJv.jpg",
           "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/i6jtudpxbmb6lgbqsk48/roshe-one-mens-shoe-MkTmzjJv.jpg",
           "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/hlranjgprirgird0ytxi/roshe-one-mens-shoe-MkTmzjJv.jpg",
@@ -256,15 +259,15 @@
         ]
     },
     {
-      "category": "Shoes",
-      "availableSizes": ["7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "12.5", "13", "14", "15"],
+      "category": "women",
+      "availableSizes": ["5", "5.5", "6", "6.5", "7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12"],
       "description": "4 MSL",
       "id": 15,
-      "price": 75,
-      "title": "Nike Roshe One",
+      "price": 180,
+      "title": "Nike Zoom Pegasus Turbo 2",
       "image": 
         [
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/bw3ncmlwlu7vgda3j8xt/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/f4e5djuvuxkxpkf6a0gf/zoom-pegasus-turbo-2-womens-running-shoe-7c8gw8.jpg",
           "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/kpha6typnct4pxi4dea2/roshe-one-mens-shoe-MkTmzjJv.jpg",
           "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/i6jtudpxbmb6lgbqsk48/roshe-one-mens-shoe-MkTmzjJv.jpg",
           "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/hlranjgprirgird0ytxi/roshe-one-mens-shoe-MkTmzjJv.jpg",
@@ -273,15 +276,15 @@
         ]
     },
     {
-      "category": "Shoes",
-      "availableSizes": ["7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "12.5", "13", "14", "15"],
+      "category": "women",
+      "availableSizes": ["5", "5.5", "6", "6.5", "7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12"],
       "description": "4 MSL",
       "id": 16,
-      "price": 75,
-      "title": "Nike Roshe One",
+      "price": 87,
+      "title": "Nike Odyssey React Flyknit 2",
       "image": 
         [
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/bw3ncmlwlu7vgda3j8xt/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/geajpszneu3g9jmpfixc/odyssey-react-flyknit-2-womens-running-shoe-S2D33X.jpg",
           "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/kpha6typnct4pxi4dea2/roshe-one-mens-shoe-MkTmzjJv.jpg",
           "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/i6jtudpxbmb6lgbqsk48/roshe-one-mens-shoe-MkTmzjJv.jpg",
           "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/hlranjgprirgird0ytxi/roshe-one-mens-shoe-MkTmzjJv.jpg",
@@ -290,15 +293,15 @@
         ]
     },
     {
-      "category": "Shoes",
-      "availableSizes": ["7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "12.5", "13", "14", "15"],
+      "category": "women",
+      "availableSizes": ["5", "5.5", "6", "6.5", "7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12"],
       "description": "4 MSL",
       "id": 17,
-      "price": 75,
-      "title": "Nike Roshe One",
+      "price": 72,
+      "title": "Nike Renew Rival",
       "image": 
         [
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/bw3ncmlwlu7vgda3j8xt/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/akc3vrhnnkhsbmi7abnz/renew-rival-womens-running-shoe-0KR6XW.jpg",
           "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/kpha6typnct4pxi4dea2/roshe-one-mens-shoe-MkTmzjJv.jpg",
           "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/i6jtudpxbmb6lgbqsk48/roshe-one-mens-shoe-MkTmzjJv.jpg",
           "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/hlranjgprirgird0ytxi/roshe-one-mens-shoe-MkTmzjJv.jpg",
@@ -307,15 +310,15 @@
         ]
     },
     {
-      "category": "Shoes",
-      "availableSizes": ["7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "12.5", "13", "14", "15"],
+      "category": "women",
+      "availableSizes": ["5", "5.5", "6", "6.5", "7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12"],
       "description": "4 MSL",
       "id": 18,
-      "price": 75,
-      "title": "Nike Roshe One",
+      "price": 130,
+      "title": "Nike Air Zoom Pegasus 36 Premium",
       "image": 
         [
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/bw3ncmlwlu7vgda3j8xt/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/dwxrh3mlth6xr7chfmva/air-zoom-pegasus-36-premium-womens-running-shoe-S89LbG.jpg",
           "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/kpha6typnct4pxi4dea2/roshe-one-mens-shoe-MkTmzjJv.jpg",
           "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/i6jtudpxbmb6lgbqsk48/roshe-one-mens-shoe-MkTmzjJv.jpg",
           "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/hlranjgprirgird0ytxi/roshe-one-mens-shoe-MkTmzjJv.jpg",
@@ -324,15 +327,15 @@
         ]
     },
     {
-      "category": "Shoes",
-      "availableSizes": ["7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "12.5", "13", "14", "15"],
+      "category": "women",
+      "availableSizes": ["5", "5.5", "6", "6.5", "7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12"],
       "description": "4 MSL",
       "id": 19,
-      "price": 75,
-      "title": "Nike Roshe One",
+      "price": 180,
+      "title": "Nike Zoom Pegasus Turbo 2",
       "image": 
         [
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/bw3ncmlwlu7vgda3j8xt/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/nj75472sgj6eaz2hzpea/zoom-pegasus-turbo-2-womens-running-shoe-c0hc8r.jpg",
           "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/kpha6typnct4pxi4dea2/roshe-one-mens-shoe-MkTmzjJv.jpg",
           "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/i6jtudpxbmb6lgbqsk48/roshe-one-mens-shoe-MkTmzjJv.jpg",
           "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/hlranjgprirgird0ytxi/roshe-one-mens-shoe-MkTmzjJv.jpg",
@@ -341,15 +344,168 @@
         ]
     },
     {
-      "category": "Shoes",
+      "category": "kids",
       "availableSizes": ["7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "12.5", "13", "14", "15"],
-      "description": "4 MSL",
+      "description": "The breathable and plush Nike Roshe One Men's Shoe provides all day, everyday comfort. Worn with or without socks, dressed up or down, for walking or just taking it easy, this coveted style is designed to be versatile.",
       "id": 20,
-      "price": 75,
-      "title": "Nike Roshe One",
+      "price": 80,
+      "title": "Nike Free RN 5.0",
       "image": 
         [
-          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/bw3ncmlwlu7vgda3j8xt/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/ulijnfn3dwquidupvblq/free-rn-5-big-kids-running-shoe-GhVSwJ.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/kpha6typnct4pxi4dea2/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/i6jtudpxbmb6lgbqsk48/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/hlranjgprirgird0ytxi/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/vw1lun7lxjtvc41ufn2p/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/tqqicdzjjutpdtvcydyn/roshe-one-mens-shoe-MkTmzjJv.jpg"
+        ]
+    },
+    {
+      "category": "kids",
+      "availableSizes": ["6", "6.5", "7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "12.5", "13", "14", "15"],
+      "description": "The iconic Nike Air Zoom Pegasus 36 returns with more perforations and an engineered mesh to optimize breathability across high-heat areas. A slimmer heel collar and tongue reduce bulk without compromising comfort, while exposed Flywire cables give you a snug fit at higher speeds.",
+      "id": 21,
+      "price": 85,
+      "title": "Nike Future Speed 2",
+      "image": 
+        [
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/u7eoepifj6sexdgnbodx/future-speed-2-big-kids-running-shoe-NRC9sm.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/tizo5tyftuixmruhgozb/air-zoom-pegasus-36-mens-running-shoe-extra-wide-D24Mcz.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/r5tr73qjfw0fwq9nurqu/air-zoom-pegasus-36-mens-running-shoe-extra-wide-D24Mcz.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/annogrytej6zb8ljfb1x/air-zoom-pegasus-36-mens-running-shoe-extra-wide-D24Mcz.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/ushktv4de8jwqp1sggsw/air-zoom-pegasus-36-mens-running-shoe-extra-wide-D24Mcz.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/mdj0cjtxpyokie5e62wd/air-zoom-pegasus-36-mens-running-shoe-extra-wide-D24Mcz.jpg"
+        ]
+    },
+    {
+      "category": "kids",
+      "availableSizes": ["7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "12.5", "13", "14", "15"],
+      "description": "4 MSL",
+      "id": 22,
+      "price": 82,
+      "title": "Nike Epic Phantom React Flyknit Icon Clash",
+      "image": 
+        [
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/lsqbihb9yvjxu0c0znks/epic-phantom-react-flyknit-icon-clash-big-kids-shoe-dLJvHh.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/kpha6typnct4pxi4dea2/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/i6jtudpxbmb6lgbqsk48/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/hlranjgprirgird0ytxi/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/vw1lun7lxjtvc41ufn2p/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/tqqicdzjjutpdtvcydyn/roshe-one-mens-shoe-MkTmzjJv.jpg"
+        ]
+    },
+    {
+      "category": "kids",
+      "availableSizes": [ "10.5c", "11c", "11.5c", "12c", "12.5c", "13c", "13.5c", "1y", "1.5y", "2y", "2.5y", "3y"],
+      "description": "4 MSL",
+      "id": 23,
+      "price": 45,
+      "title": "Nike Flex Runner",
+      "image": 
+        [
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/mp5ragfnklxco83hufrw/flex-runner-little-kids-shoe-bsZmlp.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/kpha6typnct4pxi4dea2/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/i6jtudpxbmb6lgbqsk48/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/hlranjgprirgird0ytxi/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/vw1lun7lxjtvc41ufn2p/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/tqqicdzjjutpdtvcydyn/roshe-one-mens-shoe-MkTmzjJv.jpg"
+        ]
+    },
+    {
+      "category": "kids",
+      "availableSizes": ["3y", "3.5y", "4y", "4.5y", "5y", "5.5y", "6y"],
+      "description": "4 MSL",
+      "id": 24,
+      "price": 40,
+      "title": "Nike Flex Runner",
+      "image": 
+        [
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/ptjdoupf7z34ynh23qp2/flex-runner-big-kids-running-shoe-QQsbLl.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/kpha6typnct4pxi4dea2/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/i6jtudpxbmb6lgbqsk48/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/hlranjgprirgird0ytxi/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/vw1lun7lxjtvc41ufn2p/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/tqqicdzjjutpdtvcydyn/roshe-one-mens-shoe-MkTmzjJv.jpg"
+        ]
+    },
+    {
+      "category": "kids",
+      "availableSizes": ["7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "12.5", "13", "14", "15"],
+      "description": "4 MSL",
+      "id": 25,
+      "price": 94,
+      "title": "Nike Epic React Flyknit 2",
+      "image": 
+        [
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/zxu1yb4afl0bfaivwkbm/epic-react-flyknit-2-big-kids-running-shoe-tSPh4m.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/kpha6typnct4pxi4dea2/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/i6jtudpxbmb6lgbqsk48/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/hlranjgprirgird0ytxi/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/vw1lun7lxjtvc41ufn2p/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/tqqicdzjjutpdtvcydyn/roshe-one-mens-shoe-MkTmzjJv.jpg"
+        ]
+    },
+    {
+      "category": "kids",
+      "availableSizes": ["7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "12.5", "13", "14", "15"],
+      "description": "4 MSL",
+      "id": 26,
+      "price": 65,
+      "title": "Nike Novice",
+      "image": 
+        [
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/pejrgodgsumw5xtjk5ka/novice-baby-toddler-boot-r4W4FM.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/kpha6typnct4pxi4dea2/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/i6jtudpxbmb6lgbqsk48/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/hlranjgprirgird0ytxi/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/vw1lun7lxjtvc41ufn2p/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/tqqicdzjjutpdtvcydyn/roshe-one-mens-shoe-MkTmzjJv.jpg"
+        ]
+    },
+    {
+      "category": "kids",
+      "availableSizes": ["7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "12.5", "13", "14", "15"],
+      "description": "4 MSL",
+      "id": 27,
+      "price": 48,
+      "title": "Nike Free RN 5.0",
+      "image": 
+        [
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/ew3d9owbxcb3ecinl3cv/free-rn-5-baby-toddler-shoe-r2SHSD.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/kpha6typnct4pxi4dea2/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/i6jtudpxbmb6lgbqsk48/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/hlranjgprirgird0ytxi/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/vw1lun7lxjtvc41ufn2p/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/tqqicdzjjutpdtvcydyn/roshe-one-mens-shoe-MkTmzjJv.jpg"
+        ]
+    },
+    {
+      "category": "kids",
+      "availableSizes": ["6", "6.5", "7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "12.5", "13", "14", "15"],
+      "description": "4 MSL",
+      "id": 28,
+      "price": 45,
+      "title": "Nike Air Force 1 06",
+      "image": 
+        [
+          "https://c.static-nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/pvownp3uieae8e4wp0mc/air-force-1-06-infant-toddler-shoe-w8ToDL18.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/kpha6typnct4pxi4dea2/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/i6jtudpxbmb6lgbqsk48/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/hlranjgprirgird0ytxi/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/vw1lun7lxjtvc41ufn2p/roshe-one-mens-shoe-MkTmzjJv.jpg",
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/tqqicdzjjutpdtvcydyn/roshe-one-mens-shoe-MkTmzjJv.jpg"
+        ]
+    },
+    {
+      "category": "kids",
+      "availableSizes": ["7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "12.5", "13", "14", "15"],
+      "description": "4 MSL",
+      "id": 29,
+      "price": 120,
+      "title": "Nike Air Max 270",
+      "image": 
+        [
+          "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/ipklhg4slswepa0x0ojn/air-max-270-big-kids-shoe-HbtNX3.jpg",
           "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/kpha6typnct4pxi4dea2/roshe-one-mens-shoe-MkTmzjJv.jpg",
           "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/i6jtudpxbmb6lgbqsk48/roshe-one-mens-shoe-MkTmzjJv.jpg",
           "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/hlranjgprirgird0ytxi/roshe-one-mens-shoe-MkTmzjJv.jpg",

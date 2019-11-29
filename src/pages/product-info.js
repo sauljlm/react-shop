@@ -1,8 +1,12 @@
 import React, { useState } from 'react';
 import { useDispatch } from 'react-redux';
+import { Link } from 'react-router-dom';
 
 import Header from '../components/header';
 import { push } from '../actions/index';
+
+import { drop } from '../actions/index';
+
 
 export default (props) => {
   const dispatch = useDispatch();
@@ -10,9 +14,51 @@ export default (props) => {
 
   const [currentImage, setCurrentImage] = useState(0);
   const [sizeSelected, setCurrentSize] = useState(0);
+  const [showModal, modalAction] = useState(false);
+
+  function modal() {
+    return (
+      <div className="modal-container">
+        <div className="modal">
+          <div className="modal__head">
+            <h4 className="modal__title">Added to cart</h4>
+            <button 
+              onClick={() => modalAction(!showModal)}
+              className="modal__btn-close"
+              style={{backgroundImage: `url('static/close.png')` }}
+            />
+          </div>
+          <div className="modal__products">
+            <div className="modal__product">
+              <div className="modal__product-image" style={{backgroundImage: `url(${data.image[0]})` }}></div>
+              <div className="modal__product-cont-info">
+                <p className="modal__product-title">{data.title}</p>
+                <p className="modal__product-category">{data.category}</p>
+                <p className="modal__product-size">{`Size ${data.size}`}</p>
+                <p className="modal__product-price">{`$ ${data.price}`}</p>
+              </div>
+            </div>
+          </div>
+          <div className="modal__buttons">
+            <Link className="modal__btn modal__btn-cart" to="/shopping-car" title="link to shopping cart" >
+              <button>View Cart</button>
+            </Link>
+            <button 
+              onClick={() => dispatch(drop())}
+              className="modal__btn modal__btn-checkout"
+            >checkout</button>
+          </div>
+        </div>
+      </div>
+    );
+  }
 
   function addToCart() {
-    dispatch(push(data));
+    let currentProduct = data;
+    currentProduct.size = data.availableSizes[sizeSelected];
+
+    dispatch(push(currentProduct));
+    modalAction(!showModal);
   }
 
   function newId() {
@@ -81,6 +127,7 @@ export default (props) => {
             </div>
           </div>
         </div>
+        {showModal ? modal() : ""}
       </div>
     </div>
   )

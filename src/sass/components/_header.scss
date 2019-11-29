@@ -20,8 +20,22 @@
 }
 
 .header__shoping-car {
-
+  position: relative
+  ;
   img {
     width: 25px;
   }
+}
+
+.header__number-cart {
+  position: absolute;
+  right: -5px;
+  bottom: 0px;
+  border-radius: 50%;
+  width: 15px;
+  background-color: #fff;
+  text-align: center;
+  height: 15px;
+  border: 1px solid;
+  padding-bottom: 15px;
 }

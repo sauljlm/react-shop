@@ -3,7 +3,7 @@ import React from 'react';
 import Home from './pages/home';
 import Products from './pages/products';
 import ProductInfo from './pages/product-info';
-import ShoppingCar from './pages/shoppingCar';
+import ShoppingCart from './pages/shoppingCart';
 import NotFound from './pages/error';
 
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
@@ -23,7 +23,7 @@ function App() {
 				<Route path={"/women"} component={Products}/>
 				<Route path={"/kids"} component={Products}/>
 				<Route path={"/product-info"} component={ProductInfo}/>
-				<Route path={"/shopping-car"} component={ShoppingCar}/>
+				<Route path={"/shopping-car"} component={ShoppingCart}/>
 				<Route component={NotFound}/>
 			</Switch>
 		</BrowserRouter>

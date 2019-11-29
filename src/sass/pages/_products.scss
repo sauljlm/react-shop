@@ -1,13 +1,9 @@
-.cont-categories {
-  width: 20%;
-}
-
 .cont-products {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
   margin: 0 auto;
-  max-width: 80%;
+  max-width: 100%;
   overflow: hidden;
 }
 

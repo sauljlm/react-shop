@@ -41,9 +41,6 @@ export default (props) => {
     <div className="container">
       <Header />
       <div className="content">
-        <div className="cont-categories">
-          
-        </div>
         <div className="cont-products">{component}</div>
       </div> 
     </div>

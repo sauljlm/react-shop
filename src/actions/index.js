@@ -11,3 +11,17 @@ export const push = (data) => {
     payload: data
   };
 }
+
+export const remove = (data) => {
+  return {
+    type: 'REMOVE',
+    payload: data
+  };
+}
+
+export const drop = () => {
+  return {
+    type: 'DROP'
+  };
+}
+

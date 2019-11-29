@@ -1,4 +1,5 @@
-import React from 'react';
+import React, { useState} from 'react';
+import { Link } from 'react-router-dom';
 
 import { useSelector, useDispatch } from 'react-redux';
 import { remove, drop } from '../actions/index';
@@ -8,6 +9,8 @@ import Header from '../components/header';
 export default () => {
   const products = useSelector(state => state.shoppingCart);
   const dispatch = useDispatch();
+
+  const [showModal, modalAction] = useState(false);
 
   let subTotal = 0;
   let shipping = 0;
@@ -22,6 +25,35 @@ export default () => {
     shipping = products.length * 10;
     taxes = Math.floor((subTotal + shipping) * 0.13);
     total = subTotal + shipping + taxes;
+  }
+
+  function checkout() {
+    modalAction(!showModal);
+    dispatch(drop());
+  }
+  
+  function newModal() {
+    return (
+      <div className="modal-container">
+        <div className="modal">
+          <div className="modal__head">
+            <button 
+              onClick={() => modalAction(!showModal)}
+              className="modal__btn-close"
+              style={{backgroundImage: `url('static/close.png')` }}
+            />
+          </div>
+          <div className="modal__messaje">
+            <h4 className="modal__title">successful payment</h4>
+          </div>
+          <div className="modal__buttons">
+            <Link className="modal__btn modal__btn-cart" to="/" title="link to shopping cart" >
+              <button>Go to Home</button>
+            </Link>
+          </div>
+        </div>
+      </div>
+    )
   }
 
   return (
@@ -72,10 +104,11 @@ export default () => {
 
             <button
               className="summary__checkout"
-              onClick={() => dispatch(drop())}
+              onClick={() => checkout()}
             >CHECKOUT</button>
           </div>
         </div>
+        {showModal ? newModal() : ""}
       </div> 
     </div>
   )

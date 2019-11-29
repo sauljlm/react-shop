@@ -5,9 +5,6 @@ import { Link } from 'react-router-dom';
 import Header from '../components/header';
 import { push } from '../actions/index';
 
-import { drop } from '../actions/index';
-
-
 export default (props) => {
   const dispatch = useDispatch();
   const data = props.location.cardData;
@@ -43,10 +40,6 @@ export default (props) => {
             <Link className="modal__btn modal__btn-cart" to="/shopping-car" title="link to shopping cart" >
               <button>View Cart</button>
             </Link>
-            <button 
-              onClick={() => dispatch(drop())}
-              className="modal__btn modal__btn-checkout"
-            >checkout</button>
           </div>
         </div>
       </div>

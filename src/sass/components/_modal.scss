@@ -88,14 +88,15 @@
 
 .modal__head {
   grid-area: head;
-  display: flex;
-  justify-content: space-between;
+  position: relative;
 }
 
 .modal__btn-close {
   width: 15px;
   height: 15px;
   background-color: transparent;
+  position: absolute;
+  right: 0;
 }
 
 .modal__products {
@@ -103,6 +104,13 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+
+.modal__messaje {
+  grid-area: product;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .modal__product {

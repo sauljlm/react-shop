@@ -14,7 +14,7 @@ export default (props) => {
   const [showModal, modalAction] = useState(false);
 
   function modal() {
-    return (
+    return ( 
       <div className="modal-container">
         <div className="modal">
           <div className="modal__head">
@@ -37,7 +37,7 @@ export default (props) => {
             </div>
           </div>
           <div className="modal__buttons">
-            <Link className="modal__btn modal__btn-cart" to="/shopping-car" title="link to shopping cart" >
+            <Link className="modal__btn" to="/shopping-car" title="link to shopping cart" >
               <button>View Cart</button>
             </Link>
           </div>

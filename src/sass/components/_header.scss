@@ -10,6 +10,19 @@
   width: 100%;
 }
 
+.header__number-cart {
+  background-color: #fff;
+  border-radius: 50%;
+  border: 1px solid;
+  bottom: 0px;
+  height: 15px;
+  padding-bottom: 15px;
+  position: absolute;
+  right: -5px;
+  text-align: center;
+  width: 15px;
+}
+
 .header__logo {
   align-content: center;
   display: flex;
@@ -20,22 +33,9 @@
 }
 
 .header__shoping-car {
-  position: relative
-  ;
+  position: relative;
+  
   img {
     width: 25px;
   }
-}
-
-.header__number-cart {
-  position: absolute;
-  right: -5px;
-  bottom: 0px;
-  border-radius: 50%;
-  width: 15px;
-  background-color: #fff;
-  text-align: center;
-  height: 15px;
-  border: 1px solid;
-  padding-bottom: 15px;
 }

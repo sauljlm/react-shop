@@ -11,11 +11,21 @@ export default () => {
   const dispatch = useDispatch();
 
   const [showModal, modalAction] = useState(false);
+  const [purchaseStatus, setPurchase] = useState(false);
 
   let subTotal = 0;
   let shipping = 0;
   let taxes = 0;
   let total = 0;
+
+  function setSatus() {
+    const number = Math.floor((Math.random() * (2- -1))+ -1);
+    if (number >= 0) {
+      setPurchase(true);
+    } else {
+      setPurchase(false);
+    }
+  }
 
   function setPrices() {
     products.forEach((product) => {
@@ -28,8 +38,13 @@ export default () => {
   }
 
   function checkout() {
-    modalAction(!showModal);
-    dispatch(drop());
+    setSatus();
+    setTimeout(() => {
+      if (purchaseStatus === true) {
+        dispatch(drop());
+      }
+      modalAction(!showModal);
+    }, 3000);
   }
   
   function newModal() {
@@ -44,13 +59,27 @@ export default () => {
             />
           </div>
           <div className="modal__messaje">
-            <h4 className="modal__title">successful payment</h4>
+            <h4 className="modal__title">{purchaseStatus ? "successful payment" : "failed payment" }</h4>
           </div>
-          <div className="modal__buttons">
-            <Link className="modal__btn modal__btn-cart" to="/" title="link to shopping cart" >
-              <button>Go to Home</button>
-            </Link>
-          </div>
+            {
+              purchaseStatus ?
+                <div className="modal__buttons">
+                  <Link className="modal__btn" to="/" title="link to shopping cart" >
+                    <button>Go to Home</button>
+                  </Link>
+                </div>
+              :
+                <div className="modal__buttons">
+                  <button 
+                    onClick={() => modalAction(!showModal)}
+                    className="modal__btn"
+                  >Cancel</button>
+                  <button 
+                    onClick={() => checkout()}
+                    className="modal__btn"
+                  >Retry</button>
+                </div>
+            }
         </div>
       </div>
     )
@@ -67,7 +96,7 @@ export default () => {
               products.map((product, index) => {
                 return (
                   <li className="product-cart__item">
-                    <div className="product-cart__image" style={{backgroundImage: `url(${product.image[0]})` }}></div>
+                    <div className="product-cart__image" style={{backgroundImage: `url(${product.image[0]})` }} />
                     <div className="product-cart__cont-info">
                       <p className="product-cart__title">{product.title}</p>
                       <p className="product-cart__price">{`$ ${product.price}`}</p>

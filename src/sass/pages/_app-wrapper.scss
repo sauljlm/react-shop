@@ -1,10 +1,10 @@
 .content {
   display: flex;
+  justify-content: center;
   margin: 0 auto;
   max-width: 100%;
   overflow: hidden;
   padding: 100px 4% 0;
-  justify-content: center;
 }
 
 .gallery {
@@ -13,8 +13,8 @@
 }
 
 .gallery__image {
-  height: 250px;
   background-size: cover;
+  height: 250px;
 }
 
 .gallery__image--left {
@@ -23,12 +23,12 @@
   width: 40%;
 
   @media (min-width: $breakpoint-md) {
-    display: block;
     background-position: 25% 0;
+    display: block;
   }
   @media (min-width: $breakpoint-lg) {
-    display: block;
     background-position: 5% 0;
+    display: block;
   }
 }
 
